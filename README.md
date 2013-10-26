@@ -12,5 +12,4 @@ RPC 5534
 
 P2P 5535
 
-Yadda, yadda, something else.
-
+Difficulty re-target every 4 blocks 10% down 1% up.
