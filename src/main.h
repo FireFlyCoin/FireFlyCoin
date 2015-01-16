@@ -26,6 +26,7 @@ class CNode;
 struct CBlockIndexWorkComparator;
 
 /*** The KGW Fork Block */
+static const int KGW_FORK = 955000
 /** The maximum allowed size for a serialized block, in bytes (network rule) */
 static const unsigned int MAX_BLOCK_SIZE = 1000000;
 /** The maximum size for mined blocks */
